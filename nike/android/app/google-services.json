@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020189486642",
+    "project_id": "rational-camera-393608",
+    "storage_bucket": "rational-camera-393608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020189486642:android:49f7ad4a18c9f5b99ad62b",
+        "android_client_info": {
+          "package_name": "com.example.nike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9Be-pLTDWElZzwX-XyGiyIzhI0TZ6P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
